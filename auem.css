@@ -1,3 +1,15 @@
-# Fichier auem.css
+body {
+    background: linear-gradient(45deg, red, yellow, green);
+  }
 
-Contenu style css.
+  .jumbotron {
+    background-color: cornsilk;
+  }
+
+  .card-body {
+    background-color: cornsilk;
+  }
+  
+  a.socialMediaLink {
+    position: fixed;
+  }
